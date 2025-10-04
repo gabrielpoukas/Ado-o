@@ -28,7 +28,7 @@ body {
     padding: 20px;
     
     /* Configuração da Imagem de Fundo */
-    background-image: url(./imagensprojeto/adocao.jpg); /* Verifique o caminho da sua imagem */
+    background-image: url(./adocao.jpg); /* Verifique o caminho da sua imagem */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -201,4 +201,5 @@ p {
     .btn-login {
         font-size: 1.1rem;
     }
+
 }
